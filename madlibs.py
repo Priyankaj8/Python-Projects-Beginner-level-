@@ -11,11 +11,11 @@ verb = input("Verb: ")
 plural_noun3 = input("Plural noun: ")
 
 madlib = f"One {adj1} day, I was walking my {color} \
- pet {noun1} when {plural_noun1} started flying\
- from the sky! I called my friend {persons_name}\
- and she said one just landed right on her {place}\
- ! {adverb}, there was raining {plural_noun2} as\
- well and they were just going everywhere! My\
+pet {noun1} when {plural_noun1} started flying\
+from the sky! I called my friend {persons_name}\
+and she said one just landed right on her {place}\
+! {adverb}, there was raining {plural_noun2} as\
+well and they were just going everywhere! My\
 {noun2} started {verb} and catching {plural_noun3}\
 with his mouth to eat."
 
